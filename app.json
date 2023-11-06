@@ -68,7 +68,7 @@
         },
         "DATABASE_URL": {
             "description": "mongoDB URI.",
-            "value": "mongodb+srv://newiam1:Ngx29879HvNxbDX7@cluster0.elvu9mu.mongodb.net/?retryWrites=true&w=majority",
+            "value": "mongodb+srv://newiam3:123456546@cluster0.jyoggcs.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
